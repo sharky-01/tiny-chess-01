@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/sharky-01/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/sharky-01/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A 4,048-byte Python chess engine: negamax alpha-beta with a transposition table, quiescence search, null-move pruning and an 80,000-node move budget. Practice Elo 1,274 on the make.fun gauntlet.
+A 3,280-byte Python chess engine: negamax alpha-beta with a transposition table, quiescence search, null-move pruning and an 80,000-node move budget. Practice Elo 1,274 on the make.fun gauntlet.
 
 ## Run it
 
